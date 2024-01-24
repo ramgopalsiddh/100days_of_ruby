@@ -11,11 +11,13 @@
 
 ## Usage
 
-These examples were compiled with **Ruby 2.5.1**. It is recommended to install this exactly version for a correct running.
+These examples were compiled with **Ruby 3.2.3**. It is recommended to install this exactly version for a correct running.
+
+
+## Progress Table
+
 
 | Day | Title      |
 | --- |:----------: |
 | 000 | [Introduction and setup ](days0/setup.md) |
 
-
-# 100days_of_ruby
