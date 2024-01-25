@@ -20,4 +20,6 @@ These examples were compiled with **Ruby 3.2.3**. It is recommended to install t
 | Day | Title      |
 | --- |:----------: |
 | 000 | [Introduction and setup ](days0/setup.md) |
+| 001 | [Learn About Input, Output And String ](days1) |
+
 
