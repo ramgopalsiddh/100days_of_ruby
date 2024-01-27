@@ -22,5 +22,6 @@ These examples were compiled with **Ruby 3.2.3**. It is recommended to install t
 | 000 | [Introduction and setup ](days0/setup.md) |
 | 001 | [Learn About Input, Output And String ](days1) |
 | 002 | [Learn About Numbers, Comparison Operators And make a simple Calculator by use of Methods](days2) |
+| 001 | [Learn About Arraya, Iterators, Branching And Make a Calculater by use of Branching ](days3) |
 
 
