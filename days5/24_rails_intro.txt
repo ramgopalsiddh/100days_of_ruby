@@ -1,0 +1,43 @@
+Ruby on Rails kickoff - Text directions and references
+Rails overview:
+
+https://guides.rubyonrails.org/
+
+https://rubyonrails.org/
+
+https://weblog.rubyonrails.org/
+
+Creator of Rails: David Heinemeier Hansson
+
+https://dhh.dk/
+
+Ruby meetups:
+
+https://www.meetup.com/topics/ruby/
+
+Online code repository hosting services:
+
+https://github.com/
+
+https://bitbucket.org/
+
+Devise gem GitHub repository:
+
+https://github.com/heartcombo/devise
+
+Gems for Ruby and Ruby on Rails:
+
+https://rubygems.org/
+
+
+
+#############################################################################################
+
+
+Structure of a Rails application - Text references
+
+You can find the details of the individual folders in a Rails application 
+(when it's created) here: https://guides.rubyonrails.org/getting_started.html
+
+Scroll down to section 3.2, skip the part about creating the new application and
+ then you will find a listing of all the folders and their purpose in-depth.
