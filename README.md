@@ -24,5 +24,5 @@ These examples were compiled with **Ruby 3.2.3**. It is recommended to install t
 | 002 | [Learn About Numbers, Comparison Operators And make a simple Calculator by use of Methods](days2) |
 | 003 | [Learn About Arraya, Iterators, Branching And Make a Calculater by use of Branching ](days3) |
 | 004 | [Learn About Dictionaries, Bcrypt, Basic of OOPs And Make Authanticater, hased password genrate and pincode finder](days4) |
-
+| 005 | [Learn About Module & Acess module in normal and in class and Make First Rails App ](days5) |
 
