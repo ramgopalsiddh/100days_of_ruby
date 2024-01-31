@@ -26,4 +26,5 @@ These examples were compiled with **Ruby 3.2.3**. It is recommended to install t
 | 004 | [Learn About Dictionaries, Bcrypt, Basic of OOPs And Make Authanticater, hased password genrate and pincode finder](days4) |
 | 005 | [Learn About Module & Acess module in normal and in class and Make First Rails App ](days5) |
 | 006 | [Learn About Version Control, Frontend, Deployment, CRUD & Scaffold genrater and make test version of Alpha Blog ](days6) |
+| 007 | [Learn About tables migration, console and Add Alpha blog's Show and Create Action](https://github.com/ramgopalsiddh/100days_of_ruby/commits?author=ramgopalsiddh&since=2024-01-31&until=2024-01-31) |
 
