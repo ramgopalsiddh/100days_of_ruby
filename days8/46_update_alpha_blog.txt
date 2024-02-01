@@ -1,0 +1,27 @@
+Build homepage - text follow-up
+--------------------------------------------------------------------------------------------
+All the code changes made in the previous video to add Home page styling can be found 
+here: https://github.com/udemyrailscourse/alpha-blog-6/commit/8f3ef132836225f566c705e6434ab39cc9c338b2
+
+You can skip the changes to the README.md file since that was just used in the video for 
+display purposes.
+
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+
+
+
+Layout links - text follow-up
+----------------------------------------------------------------------
+All the code changes made in the previous video can be found 
+here: https://github.com/udemyrailscourse/alpha-blog-6/commit/404a3125e2bd8c28c461f20b99add19143dc616c     
+
+
+
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+
+Style index view - text references
+-----------------------------------------------------------------------
+All the code changes made in the previous video can be found 
+here: https://github.com/udemyrailscourse/alpha-blog-6/commit/d5a5b696b3e75de45ee7179ce66525b94fe77fe9

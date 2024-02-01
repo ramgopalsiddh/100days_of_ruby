@@ -1,0 +1,13 @@
+I follow these blog and github repo for setup bootstrep in 
+Rails 7 bootstrap 5
+
+https://medium.com/@pietropugliesi/javascript-bootstrap-asset-bundling-in-ruby-on-rails-7-3640a220f2ce
+
+
+https://github.com/twbs/bootstrap-rubygem/blob/main/README.md
+
+
+I follow this video for setup custom css :-
+  https://www.youtube.com/watch?v=tYr8yn7yRKw&t=285s
+
+  

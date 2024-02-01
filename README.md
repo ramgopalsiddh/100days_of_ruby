@@ -27,4 +27,5 @@ These examples were compiled with **Ruby 3.2.3**. It is recommended to install t
 | 005 | [Learn About Module & Acess module in normal and in class and Make First Rails App ](days5) |
 | 006 | [Learn About Version Control, Frontend, Deployment, CRUD & Scaffold genrater and make test version of Alpha Blog ](days6) |
 | 007 | [Learn About tables migration, console and Add Alpha blog's Show and Create Action](https://github.com/ramgopalsiddh/100days_of_ruby/commits?author=ramgopalsiddh&since=2024-01-31&until=2024-01-31) |
+| 008 | [Learn About ](https://github.com/ramgopalsiddh/100days_of_ruby/commits?author=ramgopalsiddh&since=2024-02-01&until=2024-02-01) |
 
