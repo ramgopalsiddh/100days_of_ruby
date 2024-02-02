@@ -28,4 +28,7 @@ These examples were compiled with **Ruby 3.2.3**. It is recommended to install t
 | 006 | [Learn About Version Control, Frontend, Deployment, CRUD & Scaffold genrater and make test version of Alpha Blog ](days6) |
 | 007 | [Learn About tables migration, console and Add Alpha blog's Show and Create Action](https://github.com/ramgopalsiddh/100days_of_ruby/commits?author=ramgopalsiddh&since=2024-01-31&until=2024-01-31) |
 | 008 | [Learn About Production deployment, install bootstrap and Update Alpha blog's delete, update action route ](https://github.com/ramgopalsiddh/100days_of_ruby/commits?author=ramgopalsiddh&since=2024-02-01&until=2024-02-01) |
+| 009 | [Update Alpha blog and clean code, Add footer  ](https://github.com/ramgopalsiddh/100days_of_ruby/commits?author=ramgopalsiddh&since=2024-02-02&until=2024-02-02) |
+
+
 
