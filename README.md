@@ -29,7 +29,7 @@ These examples were compiled with **Ruby 3.2.3**. It is recommended to install t
 | 007 | [Learn About tables migration, console and Add Alpha blog's Show and Create Action](days007) |
 | 008 | [Learn About Production deployment, install bootstrap and Update Alpha blog's delete, update action route ](days008) |
 | 009 | [Update Alpha blog and clean code, Add footer  ](https://github.com/ramgopalsiddh/100days_of_ruby/compare/be308f26b6023725d8d172cd42ec5c1f540f192f...74b9b3326e608bf5f91bfe13ba03ad5906ec2a4d) |
-| 010 | [Introduction and setup ](https://github.com/ramgopalsiddh/100days_of_ruby/commits?author=ramgopalsiddh&since=2024-02-03&until=2024-02-03) |
+| 010 | [Learn About User validation, one to many association and use in Alpha Blog and add show writer name in blog ](https://github.com/ramgopalsiddh/100days_of_ruby/commits?author=ramgopalsiddh&since=2024-02-03&until=2024-02-03) |
 
 
 
