@@ -31,6 +31,5 @@ These examples were compiled with **Ruby 3.2.3**. It is recommended to install t
 | 009 | [Update Alpha blog and clean code, Add footer  ](https://github.com/ramgopalsiddh/100days_of_ruby/compare/be308f26b6023725d8d172cd42ec5c1f540f192f...74b9b3326e608bf5f91bfe13ba03ad5906ec2a4d) |
 | 010 | [Learn About User validation, one to many association and use in Alpha Blog and add show writer name in blog ](https://github.com/ramgopalsiddh/100days_of_ruby/commits?author=ramgopalsiddh&since=2024-02-03&until=2024-02-03) |
 | 011 | [Learn About password digeste, downcase  and apply in Alpha Blog app, build signup page controller and routes](https://github.com/ramgopalsiddh/100days_of_ruby/commits?author=ramgopalsiddh&since=2024-02-04&until=2024-02-04) |
-
-
+| 012 | [Learn About Pagination, avatar and Add pagination(pagy), profile image and edit user info in Alpha Blog ](https://github.com/ramgopalsiddh/100days_of_ruby/commits?author=ramgopalsiddh&since=2024-02-05&until=2024-02-05) |
 
