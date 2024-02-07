@@ -33,4 +33,4 @@ These examples were compiled with **Ruby 3.2.3**. It is recommended to install t
 | 011 | [Learn About password digeste, downcase  and apply in Alpha Blog app, build signup page controller and routes](https://github.com/ramgopalsiddh/100days_of_ruby/commits?author=ramgopalsiddh&since=2024-02-04&until=2024-02-04) |
 | 012 | [Learn About Pagination, avatar and Add pagination(pagy), profile image and edit user info in Alpha Blog ](https://github.com/ramgopalsiddh/100days_of_ruby/commits?author=ramgopalsiddh&since=2024-02-05&until=2024-02-05) |
 | 013 | [Update in Alpha Blog:-Add login form, Add login,logout button and restrict with user, restrict action with user etc.](https://github.com/ramgopalsiddh/100days_of_ruby/commits?author=ramgopalsiddh&since=2024-02-06&until=2024-02-06) |
-
+| 014 | [Update in Alpha Blog:- Restrict user's action in users & articles controller, Add Admin, Define Admin's action and some minor update](https://github.com/ramgopalsiddh/100days_of_ruby/commits?author=ramgopalsiddh&since=2024-02-07&until=2024-02-07) |
